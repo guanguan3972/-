@@ -1,8 +1,8 @@
 {
-  "version": "2.8.7",
-  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.8.7.zip",
-  "sha256": "62d680184dce3b8a4a4251604232b562eef1e0041bd9f9349853a5094627ffc5",
-  "notes": "修复删除账号后自动复活；清理残留分区",
-  "size": 91425,
-  "builtAt": "2026-11-01T16:25:43.206Z"
+  "version": "2.8.8",
+  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.8.8.zip",
+  "sha256": "8ea71c71f2359d17ec93bbb6c754e9d904c75ccf099a241e65c17042fffccdcb",
+  "notes": "修复右键菜单被下拉覆盖（右键可删除账号）",
+  "size": 91640,
+  "builtAt": "2026-11-01T16:39:06.456Z"
 }
