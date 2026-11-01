@@ -1,9 +1,8 @@
 {
-  "version": "2.8.1",
-  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.8.1.zip",
-  "sha256": "d74d7cd8785732ce596cb9e36443396c0589d8a134edd937ce684bf51467b4d7",
-  "notes": "更新源多路回退（API/raw/CDN），解决缓存不更新",
-  "size": 83712,
-  "builtAt": "2026-11-01T15:15:09.442Z",
-  "urlCdn": "https://cdn.jsdelivr.net/gh/guanguan3972/-@main/xbu-2.8.1.zip"
+  "version": "2.8.2",
+  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.8.2.zip",
+  "sha256": "0c59e118b67059e913ab57741ec23aaf92e33d4e4a4f599d2007a355df9da0ea",
+  "notes": "修复更新报错；错误提示改为中文；新增启动动画与更新日志",
+  "size": 86842,
+  "builtAt": "2026-11-01T15:24:04.191Z"
 }
