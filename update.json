@@ -1,8 +1,9 @@
 {
-  "version": "2.8.0",
-  "url": "https://cdn.jsdelivr.net/gh/guanguan3972/-@main/xbu-2.8.0.zip",
-  "sha256": "27cb2168fdfaa9d90782360b70b45694498313b797a2e1268259234d6c3972ad",
-  "notes": "改名阿日上传助手；修复更新失败",
-  "size": 83192,
-  "builtAt": "2026-11-01T15:02:20.823Z"
+  "version": "2.8.1",
+  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.8.1.zip",
+  "sha256": "d74d7cd8785732ce596cb9e36443396c0589d8a134edd937ce684bf51467b4d7",
+  "notes": "更新源多路回退（API/raw/CDN），解决缓存不更新",
+  "size": 83712,
+  "builtAt": "2026-11-01T15:15:09.442Z",
+  "urlCdn": "https://cdn.jsdelivr.net/gh/guanguan3972/-@main/xbu-2.8.1.zip"
 }
