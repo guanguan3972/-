@@ -1,8 +1,8 @@
 {
-  "version": "2.8.4",
-  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.8.4.zip",
-  "sha256": "56c523e13551b9fc2846b678aa830cf993ab9885d961933b0a80c767b05fd9d3",
-  "notes": "回退到 2.8.4（启动页 + 账号下拉，无护眼模式）",
-  "size": 88409,
-  "builtAt": "2026-11-02T00:08:44.000Z"
+  "version": "2.8.7",
+  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.8.7.zip",
+  "sha256": "62d680184dce3b8a4a4251604232b562eef1e0041bd9f9349853a5094627ffc5",
+  "notes": "修复删除账号后自动复活；清理残留分区",
+  "size": 91425,
+  "builtAt": "2026-11-01T16:25:43.206Z"
 }
