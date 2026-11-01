@@ -1,0 +1,8 @@
+{
+  "version": "2.7.5",
+  "url": "https://cdn.jsdelivr.net/gh/guanguan3972/-@main/xbu-2.7.5.zip",
+  "sha256": "4ed138719523dea0a0e3cf071024a671d9194e4d0d4a08dbc5c70faa156a42aa",
+  "notes": "修复更新失败（spawn 未定义）与更新源地址",
+  "size": 83214,
+  "builtAt": "2026-11-01T14:49:55.982Z"
+}
