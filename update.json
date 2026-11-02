@@ -1,8 +1,8 @@
 {
-  "version": "2.9.5",
-  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.5.zip",
-  "sha256": "2046d40d7d1c2ec7a7694b5ff56e8c2b725699d867627ae7cc9210a79145ea56",
-  "notes": "更新失败自动回滚；拒绝旧包降级",
-  "size": 351939,
-  "builtAt": "2026-11-02T07:50:21.451Z"
+  "version": "2.9.8",
+  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.8.zip",
+  "sha256": "865733c8e0f523e5dde332bd6d24afa92914d530ca508948fd37e8572997bd9d",
+  "notes": "上传完成的悬浮提示自动收起",
+  "size": 354045,
+  "builtAt": "2026-11-02T10:05:08.280Z"
 }
