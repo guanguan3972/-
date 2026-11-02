@@ -1,8 +1,8 @@
 {
-  "version": "2.9.2",
-  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.2.zip",
-  "sha256": "08599b284d6e84296321f40681ead17457bc37eb40f755a913521a75fbfc1099",
-  "notes": "提醒恢复独立小窗；面板自动显示书名；设置增加赞助与联系方式",
-  "size": 347853,
-  "builtAt": "2026-11-02T07:30:54.821Z"
+  "version": "2.9.5",
+  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.5.zip",
+  "sha256": "2046d40d7d1c2ec7a7694b5ff56e8c2b725699d867627ae7cc9210a79145ea56",
+  "notes": "更新失败自动回滚；拒绝旧包降级",
+  "size": 351939,
+  "builtAt": "2026-11-02T07:50:21.451Z"
 }
