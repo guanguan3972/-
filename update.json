@@ -1,8 +1,8 @@
 {
-  "version": "2.9.0",
-  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.0.zip",
-  "sha256": "c3297cce102a4adb533759812562c555ef1860d2c049bd50cf5423a1b041b737",
-  "notes": "定时提醒可改名/删除；启动自动检查更新（居中弹窗）",
-  "size": 93821,
-  "builtAt": "2026-11-02T07:07:48.171Z"
+  "version": "2.9.2",
+  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.2.zip",
+  "sha256": "08599b284d6e84296321f40681ead17457bc37eb40f755a913521a75fbfc1099",
+  "notes": "提醒恢复独立小窗；面板自动显示书名；设置增加赞助与联系方式",
+  "size": 347853,
+  "builtAt": "2026-11-02T07:30:54.821Z"
 }
