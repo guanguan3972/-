@@ -1,8 +1,8 @@
 {
-  "version": "2.9.8",
-  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.8.zip",
-  "sha256": "39d05b6c3c202cc0424d049d7b20ce32919625f83fa3bb841dabbaa3c4f3bb32",
-  "notes": "定时日期/时间强制分开填写；说明书更新为阿日",
-  "size": 356383,
-  "builtAt": "2026-11-04T12:24:47.380Z"
+  "version": "2.9.10",
+  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.10.zip",
+  "sha256": "69b666eb49c3498fb2e0293e273e53e613162bb381a17bfc216db938c47238dc",
+  "notes": "修复更新日志为空；最后一章移到第二行",
+  "size": 356082,
+  "builtAt": "2026-11-04T13:10:44.014Z"
 }
