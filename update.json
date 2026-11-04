@@ -1,8 +1,8 @@
 {
-  "version": "2.9.10",
-  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.10.zip",
-  "sha256": "69b666eb49c3498fb2e0293e273e53e613162bb381a17bfc216db938c47238dc",
-  "notes": "修复更新日志为空；最后一章移到第二行",
-  "size": 356082,
-  "builtAt": "2026-11-04T13:10:44.014Z"
+  "version": "2.9.12",
+  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.12.zip",
+  "sha256": "709a0c00e09cffaeb65725b74ac1f99a821871cf4e5dc6516ec9360853e886a8",
+  "notes": "更新时显示进度条（下载百分比 + 替换提示）",
+  "size": 358364,
+  "builtAt": "2026-11-04T13:23:50.718Z"
 }
