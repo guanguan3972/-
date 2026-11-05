@@ -1,8 +1,8 @@
 {
-  "version": "2.9.20",
-  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.20.zip",
-  "sha256": "f75e5148ed0c8197ee95ce9e29484b012f861af7e4d9772600ac0c2c1e9062de",
-  "notes": "新增「接着上次定时排」：自动从上次定时的下一天继续",
-  "size": 361857,
-  "builtAt": "2026-11-04T15:14:00.892Z"
+  "version": "2.9.26",
+  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.26.zip",
+  "sha256": "1fe6bf026dee21b93f7a86fc77c5ace22f6d418851863e890e1c7fb6e21d8fd2",
+  "notes": "新增并排模式，支持多账号同时定时发布",
+  "size": 367278,
+  "builtAt": "2026-11-05T12:33:42.300Z"
 }
