@@ -1,8 +1,8 @@
 {
-  "version": "2.9.26",
-  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.26.zip",
-  "sha256": "1fe6bf026dee21b93f7a86fc77c5ace22f6d418851863e890e1c7fb6e21d8fd2",
-  "notes": "新增并排模式，支持多账号同时定时发布",
-  "size": 367278,
-  "builtAt": "2026-11-05T12:33:42.300Z"
+  "version": "2.9.28",
+  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.28.zip",
+  "sha256": "1eb7ea71442bdfe7e7a2492815963a38abb2bb06479d4ad457ebf291e35c2d2b",
+  "notes": "并排改为缩放渲染，作品列表不再被挤没",
+  "size": 367975,
+  "builtAt": "2026-11-05T13:15:15.117Z"
 }
