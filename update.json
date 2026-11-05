@@ -1,8 +1,8 @@
 {
-  "version": "2.9.28",
-  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.28.zip",
-  "sha256": "1eb7ea71442bdfe7e7a2492815963a38abb2bb06479d4ad457ebf291e35c2d2b",
-  "notes": "并排改为缩放渲染，作品列表不再被挤没",
-  "size": 367975,
-  "builtAt": "2026-11-05T13:15:15.117Z"
+  "version": "2.9.31",
+  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.31.zip",
+  "sha256": "3189dafe6380c546cb9cc0633d8c135f746bb73a1e38b978d7a4f32e0f6b134c",
+  "notes": "三种显示方式可选：全部渲染/仅当前/并排",
+  "size": 369853,
+  "builtAt": "2026-11-05T13:33:15.321Z"
 }
