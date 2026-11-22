@@ -1,8 +1,14 @@
-{
-  "version": "2.9.43",
-  "url": "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.43.zip",
-  "sha256": "13540331282d446fa9ae0bde5034e271408520a850aad231b5483ef305b9e6ea",
-  "notes": "修复与优化",
-  "size": 381742,
-  "builtAt": "2026-11-07T13:35:02.600Z"
+﻿{
+    "version":  "2.9.56",
+    "date":  "2026-11-22",
+    "notes":  [
+                  "任务模式全自动：不再自动暂停、不再卡在错别字/风险提示",
+                  "修复任务下发后进度0被清空、发布框点了不发布",
+                  "同账号多任务自动排队，前一本发完自动开始下一本",
+                  "进度按成功章数统计，发完自动置为已完成",
+                  "定时时间改为纯点选，避免 Invalid Date"
+              ],
+    "url":  "https://raw.githubusercontent.com/guanguan3972/-/main/xbu-2.9.56.zip",
+    "sha256":  "c5cc759dae0254f0eb9885deeb9bddda5d23c44d4fcfc5db80cfd6343b3aec4b",
+    "size":  413990
 }
