@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "note": "管理员用 add-account.js 添加账号",
   "users": [
     {
@@ -68,6 +68,27 @@
     {
       "user": "guanguan3",
       "pass": "937377f056160fc4b15e0b770c67136a5f03c15205b4d3bf918268fefa2c6d0a",
+      "note": "普通：锁一台电脑",
+      "admin": false,
+      "multiDevice": false
+    },
+    {
+      "user": "wang1996",
+      "pass": "350ef66531ece6f97b3251516da1983837e0cfc4f24afb8a7400b1f197cca737",
+      "note": "白名单：不限机器",
+      "admin": false,
+      "multiDevice": true
+    },
+    {
+      "user": "tuzi",
+      "pass": "5e815f0c1683145577b96d4f87bac706c6d8e049cbddb4ccb9cf8ce64bf3d9f1",
+      "note": "白名单：不限机器",
+      "admin": false,
+      "multiDevice": true
+    },
+    {
+      "user": "10662062",
+      "pass": "aaff022330aa25de7cb0da512df548913ac441244d43046be80c849283477b80",
       "note": "普通：锁一台电脑",
       "admin": false,
       "multiDevice": false
