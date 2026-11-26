@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24",
+  "updated": "2026-11-26",
   "note": "管理员用 add-account.js 添加账号",
   "users": [
     {
@@ -96,6 +96,13 @@
     {
       "user": "rail",
       "pass": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+      "note": "白名单：不限机器",
+      "admin": false,
+      "multiDevice": true
+    },
+    {
+      "user": "18277064059",
+      "pass": "8eab2ff70e0abcce3f9dcf70ae2cc8b21d7adc9f845238d30efebb3ef429dace",
       "note": "白名单：不限机器",
       "admin": false,
       "multiDevice": true
